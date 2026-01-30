@@ -1,7 +1,7 @@
 # MSAI-Agri-SeedPurity-2026
 Seed Purity Analysis &amp; Weed Classification using Custom CNN An AI-powered agricultural diagnostic tool designed to automate the identification of seed quality and invasive weed species. Developed for the MSAI program (Fall 2025) and aligned with SDG 15 to promote sustainable terrestrial ecosystems
 
-###🌾 Project Overview
+### 🌾 Project Overview
 
 This repository contains a from-scratch implementation of a Convolutional Neural Network (CNN) aimed at enhancing agricultural productivity and biodiversity. By automating the purity analysis of seed lots, this project helps farmers avoid the planting of invasive weeds and defective seeds, ensuring higher yields and protecting local "Life on Land."
 
