@@ -53,11 +53,10 @@ The model surpassed the field-reliability benchmark early in the training proces
 
 ---
 
-## 📁 Repository Structure
-```text
-/MSAI-Agri-SeedPurity-2026
-├── Data/                # Custom Dataset (Train/Test Split)
-├── Notebooks/           # Seed_Purity_Classification.ipynb
-├── Results/             # Confusion Matrix & Accuracy Graphs
-├── Models/              # best_seed_model.pth (Trained Weights)
-└── README.md            # Project Documentation
+### Contributors
+SHAHZAIB KHAN | Student ID: SU92-MSAIW-S25-019
+
+TALHA BIN ASLAM | Student ID: SU92-MSAIW-F25-043
+
+Program: MS-AI (Fall 2025) Submission Date: January 31, 2026 (Extended)
+
