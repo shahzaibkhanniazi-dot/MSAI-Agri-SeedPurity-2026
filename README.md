@@ -42,13 +42,16 @@ The architecture is optimized for small-scale texture recognition (seed surfaces
 
 ---
 
-## 📊 Experimental Results
-The model surpassed the field-reliability benchmark early in the training process.
+## 📊 Experimental Results & Diagnostics
+The training process demonstrated a smooth learning curve, successfully overcoming the 70% accuracy plateau.
 
-* **Final Accuracy:** 91.53%
-* **Training Epochs:** 30
-* **Evaluation Metrics:** Confusion Matrix and Classification Report (Precision, Recall, F1-Score) were generated to ensure balanced detection across all seed varieties.
+### 1. Training History
 
+* The model stabilized at **91.53%**, proving the robustness of the custom architecture.
+
+### 2. Evaluation Metrics
+* **Confusion Matrix:** High diagonal density confirms accurate classification between Rumex and Soybean.
+* **Classification Report:** Detailed F1-Score, Precision, and Recall metrics are provided in the documentation to ensure agricultural reliability.
 
 
 ---
