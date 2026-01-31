@@ -14,7 +14,7 @@ Performance Benchmark: Target accuracy of 75%+ for clinical/field reliability.
 
 SDG 15 Alignment: Combatting land degradation and the spread of invasive species through precision agriculture.
 
-### 🛠 Technical Implementation🧠
+### 🛠 Technical Implementation
 Model Architecture (Custom CNN)The architecture is optimized for small-scale texture recognition (seed surfaces)
 Convolutional Blocks: Multiple layers with Batch Normalization to stabilize training on a custom dataset.
 Regularization: Integrated Dropout (0.3) to prevent overfitting and ensure the model generalizes to new seed batches.
