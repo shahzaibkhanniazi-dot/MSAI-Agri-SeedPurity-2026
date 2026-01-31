@@ -5,7 +5,7 @@ Seed Purity Analysis &amp; Weed Classification using Custom CNN An AI-powered ag
 
 This repository contains a from-scratch implementation of a Convolutional Neural Network (CNN) aimed at enhancing agricultural productivity and biodiversity. By automating the purity analysis of seed lots, this project helps farmers avoid the planting of invasive weeds and defective seeds, ensuring higher yields and protecting local "Life on Land."
 
-### 🎯 Key Objectives
+###  Key Objectives
 Seed Quality Grading: Classify seeds into 4 categories: Pure Seed, Weed Seed, Broken Seed, and Inert Matter.
 
 From-Scratch CNN: Zero reliance on pre-trained models (No Transfer Learning).
